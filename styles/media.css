@@ -51,10 +51,10 @@
   }
   .verbal p:nth-of-type(1),
   .visual p:nth-of-type(1) {
-    padding-right: 180px;
+    padding-right: 110px;
   }
   .memory p:nth-of-type(1),
   .reaction p:nth-of-type(1) {
-    padding-right: 170px;
+    padding-right: 100px;
   }
 }
